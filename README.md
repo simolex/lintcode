@@ -2,4 +2,4 @@
 
 Список:
 
-[3361. Missing Element in Sorted Array](./3361/)
+[3361. Missing Element in Sorted Array <kbd>medium</kbd>](./3361/)
